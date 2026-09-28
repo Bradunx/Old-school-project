@@ -8,11 +8,13 @@ The solution was to first write RFID cards with YouTube URLs (from the most accu
 Then, the Python VLC library was used to play music, with a lot of features available such as playing video and key controls.
 Therefore, a touch screen display was used to show video and as an interface to control the video.
 
-The main program in Python:
+## The main program in Python:
 - asks to scan an RFID card
 - when an RFID card is successfully read, downloads a YouTube video from the URL read
 - when the video is downloaded, it will automatically be played on the screen
 - the interface is created with the Tkinter library, with labels and buttons to use commands
+
+https://github.com/user-attachments/assets/09fc26c8-95de-4315-8797-bbadc990b293
 
 The project had to be done in 40 hours; even though the main objective of the project was done, I wanted to do a lot more.
 After finishing the project for school, I continued the project on my own for my personal usage.
